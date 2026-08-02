@@ -1,0 +1,21 @@
+{
+  "name": "backend-api-development",
+  "version": "1.0.0",
+  "description": "Simple beginner backend API using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend",
+    "api"
+  ],
+  "author": "Copilot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
