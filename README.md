@@ -90,4 +90,4 @@ mime.load('./my_project.types');
 The .types file format is simple -  See the `types` dir for examples.
 ## Project Output
 
-![Student API Output](Screenshot%202026-07-12%20184520.png)
+![Student API Output](Screenshot 2026-07-12 184520.png)
